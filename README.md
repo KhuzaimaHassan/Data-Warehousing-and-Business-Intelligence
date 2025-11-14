@@ -4,10 +4,10 @@
 
 ## 📘 Course Information
 
-**Course:** CT-472 Data Warehousing & Business Intelligence
-**Institution:** NED University of Engineering & Technology
-**Department:** Computer Science & IT
-**Program:** FYDS (Specialization in Data Science)
+* **Course:** CT-472 Data Warehousing & Business Intelligence
+* **Institution:** NED University of Engineering & Technology
+* **Department:** Computer Science & IT
+* **Program:** FYDS (Specialization in Data Science)
 
 ---
 
